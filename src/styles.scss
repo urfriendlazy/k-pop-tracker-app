@@ -36,5 +36,22 @@ $k-pop-tracker-app-theme: mat.define-theme((
 // @include mat.color-variants-backwards-compatibility($k-pop-tracker-app-theme);
 /* You can add global styles to this file, and also import other style files */
 
-html, body { height: 100%; }
-body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+html, body {
+  height: 100%;
+  font-size: 1rem;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main-container {
+  margin: 1rem auto 1rem auto;
+  max-width: 1440px;
+  padding: 0 1rem;
+}
+
+.mt-32 {
+  margin-top: 32px;
+}
