@@ -25,3 +25,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+Install VS code
+Install node 18.20
+Install Git
+create folder at location C:\Users\XXXX
+start VS code, open terminal in vs code, and use command "git clone https://github.com/urfriendlazy/k-pop-tracker-app"
+After giving Anh John github acc, go to github repository, master/view all branches and create new branch
+Go to source control in VS code (left side), remote tab and fetch origin.
+Go to master at the bottom left, press, and select ur branch name.
+run npm install in VS code terminal
